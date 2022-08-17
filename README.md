@@ -1,5 +1,5 @@
-# Title: Investigating the Readability of Test Code Combining Scientific and Practical Views
-## Authors: Dietmar Winkler, Primin Urbanke, Rudolf Ramler
+# Investigating the Readability of Test Code Combining Scientific and Practical Views
+## Dietmar Winkler, Primin Urbanke, Rudolf Ramler
 
 ### Abstract: 
 Purpose. 
